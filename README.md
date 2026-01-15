@@ -1,8 +1,6 @@
-# alexxingxu.github.io
+[index.html](https://github.com/user-attachments/files/24631701/index.html)# alexxingxu.github.io
 Alex Xing Xu's Portfolio
-
-[XUXING_Portfolio.pdf](https://github.com/user-attachments/files/24631623/XUXING_Portfolio.pdf)
-<!DOCTYPE html>
+[Up<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -31,5 +29,6 @@ Alex Xing Xu's Portfolio
   <embed src="XUXING_Portfolio.pdf" type="application/pdf">
 </body>
 </html>
-[index.html](https://github.com/user-attachments/files/24631625/index.html)
+loading index.html…]()
+[XUXING_Portfolio.pdf](https://github.com/user-attachments/files/24631703/XUXING_Portfolio.pdf)
 Add portfolio PDF and index.html
